@@ -14,7 +14,7 @@ Powered by [Tale Jade for PHP](https://github.com/Talesoft/tale-jade).
 
 If Composer is installed globally, run
 ```bash
-composer require clthck/cakephp-jade
+composer require greg62800/cakephp-jade
 ```
 
 ## Bootstrap
