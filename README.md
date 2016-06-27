@@ -10,7 +10,7 @@ Powered by [Tale Jade for PHP](https://github.com/Talesoft/tale-jade).
 ## Installation
 
 1. Download [Composer](http://getcomposer.org/doc/00-intro.md) or update `composer self-update`.
-2. Run `php composer.phar require clthck/cakephp-jade`.
+2. Run `php composer.phar require greg62800/cakephp-jade`.
 
 If Composer is installed globally, run
 ```bash
